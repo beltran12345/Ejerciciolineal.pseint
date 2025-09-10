@@ -1,0 +1,2 @@
+# Ejerciciolineal.pseint
+Jesús Abel 
